@@ -18,8 +18,9 @@ public class Exercise3 {
     public static void main(String[] args) {
         // TODO code application logic here
     Poo poo = new Poo("Hanky",10,"runny");
+    Poo poo2 = new Poo("George", 22, "smoldering");
         System.out.println(poo.toString());
-    
+        System.out.println(poo2.toString());
     
     }
     
