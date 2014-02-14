@@ -17,6 +17,10 @@ public class Exercise3 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    Poo poo = new Poo("Hanky",10,"runny");
+        System.out.println(poo.toString());
+    
+    
     }
     
 }
